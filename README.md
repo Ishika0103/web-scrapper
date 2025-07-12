@@ -1,4 +1,4 @@
-# 🌐 Web Scraper for Company Contact Info
+# 🌐 Web Scraper
 
 This project is a lightweight Node.js-based web scraper that extracts basic company information from a list of URLs. It supports company name extraction via `<title>`, as well as emails and phone numbers from page content.
 
